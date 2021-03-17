@@ -1,18 +1,22 @@
 [synity, by RIGINAL]  
 Sane syntax in the parlance of our times.
   
-Synity aims to make a simple unifying syntax for interactive prompts, shells, and interfaces in general. If this project gains sufficient support, the aim is also to standardize the syntax as a simpler interpreted translation of the obscure and cryptic parts of programming languages.
+The synity project aims to make a simple unifying syntax for interactive prompts, shells, and interfaces in general. If this project gains sufficient support, the aim is also to standardize the syntax as a simpler interpreted translation of the obscure and cryptic parts of programming languages and popular utilities (e.g. Regex).
   
-Memorizing or referencing unique utility/function names, arguments, options, flags, and positional order in yet another shell/language is what we want to avoid. The design intent is to be an optional abstraction to the actual interface (e.g. bash, zsh, cmd, powershell, python, ruby, perl), with different levels of abstraction from a simplified but expanded longform to abbreviated expert shortform, helper aliases.
+Memorizing or referencing unique utility/function names, arguments, options, flags, and positional order in yet another shell/language is what we want to avoid. The design intent is to be an optional abstraction to the actual interface (e.g. BASH), with different levels of abstraction from a simplified but expanded longform to abbreviated expert shortform, helper aliases.
+
+The base level targets simplified, plain, common language that avoids dated and misleading formal terminology that is common in computer science. Synity syntax seeks to be only technical enough to be readily understood by those without a computer science background, and without needing to refer to a manual.
   
 The base level abstraction should align with the simple voice commands given to smart devices like Alexa, Siri, and Google, using opinionated sane defaults that align with user expectations for voice commands to virtual assistants on smart devices.
   
-Shutdown example:  
+BASH shutdown example:  
 <=original> sudo shutdown -r now  
-<=base> please reboot -now  
 <=expert> sudo shutd -r -0
+<=base> please reboot -now  
   
-This is a work in progress under development and not suitable for use yet. If you would like to help contribute to the formative stages, contact me:   
+Different translation modules for popular shells and programming languages are planned, as well as international translations. Top candidates include: BASH, zsh, cmd, powershell, python, lua, ruby, perl, regex, and any popular scripting or shell syntax. Other possibilities under investigation would be using the same principles to simplify general purpose programming languages and other domain specific language syntax.
+  
+This is a work in progress under development and not suitable for use yet. If you would like to help contribute to the formative stages or international translations, contact me:
 the.athos.4024@gmail.com
   
   
