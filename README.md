@@ -11,8 +11,8 @@ The base level abstraction should align with the simple voice commands given to 
   
 BASH shutdown example:  
 <=original> sudo shutdown -r now  
-<=expert> sudo shutd -r -0
-<=base> please reboot -now  
+<=expert> sudo shutd -r -0  
+<=base> please reboot -now
   
 Different translation modules for popular shells and programming languages are planned, as well as international translations. Top candidates include: BASH, zsh, cmd, powershell, python, lua, ruby, perl, regex, and any popular scripting or shell syntax. Other possibilities under investigation would be using the same principles to simplify general purpose programming languages and other domain specific language syntax.
   
