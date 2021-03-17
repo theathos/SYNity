@@ -3,7 +3,7 @@ Sane syntax in the parlance of our times.
   
 Synity aims to make a simple unifying syntax for interactive prompts, shells, and interfaces in general. If this project gains sufficient support, the aim is also to standardize the syntax as a simpler interpreted translation of the obscure and cryptic parts of programming languages.
   
-Memorizing or referencing unique utility/function names, arguments, options, flags, and positional order in yet another shell/language is what we want to avoid. The design intent is to be an optional abstraction to the actual interface (e.g. bash, zsh, cmd, powershell, python, ruby, perl), with different levels of abstraction from a simplified but expanded longform to an abbreviated expert shortform helper aliases.
+Memorizing or referencing unique utility/function names, arguments, options, flags, and positional order in yet another shell/language is what we want to avoid. The design intent is to be an optional abstraction to the actual interface (e.g. bash, zsh, cmd, powershell, python, ruby, perl), with different levels of abstraction from a simplified but expanded longform to abbreviated expert shortform, helper aliases.
   
 The base level abstraction should align with the simple voice commands given to smart devices like Alexa, Siri, and Google, using opinionated sane defaults that align with smart device user expectations for voice commands.
   
