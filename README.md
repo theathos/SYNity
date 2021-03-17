@@ -12,7 +12,7 @@ Shutdown example:
 <=base> please reboot -now  
 <=expert> sudo shutd -r -0
   
-This is a work in progress under development, not suitable for use yet. If you would like to help contribute to the formative stages, contact me: 
+This is a work in progress under development and not suitable for use yet. If you would like to help contribute to the formative stages, contact me:   
 the.athos4024@gmail.com
   
   
