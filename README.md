@@ -13,7 +13,7 @@ Shutdown example:
 <=expert> sudo shutd -r -0
   
 This is a work in progress under development and not suitable for use yet. If you would like to help contribute to the formative stages, contact me:   
-the.athos4024@gmail.com
+the.athos.4024@gmail.com
   
   
 Forked from gto76/standard-aliases(John Sorne).
