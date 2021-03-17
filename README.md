@@ -20,7 +20,7 @@ This is a work in progress under development and not suitable for use yet. If yo
 the.athos.4024@gmail.com
   
   
-Forked from gto76/standard-aliases(John Sorne).
+Forked from gto76/standard-aliases(Jure Šorn).
   
 ![Standard Aliases](doc/sa_logo.png)
 
